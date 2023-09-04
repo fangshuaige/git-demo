@@ -9,4 +9,4 @@ hello Tom! hello Git!
 hello Tom! hello Git!
 hello Tom! hello Git!
 hello Tom! hello Git!master test
-hello Tom! hello Git!
+hello Tom! hello Git! hot-fix test
